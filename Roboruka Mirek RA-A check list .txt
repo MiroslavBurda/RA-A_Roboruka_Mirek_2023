@@ -1,0 +1,27 @@
+Roboruka Mirek RA-A check list 
+
+ZKONTROLOVAT 
+- ZASUNUTE STARTOVACI LANKO
+- KLEPETA jsou rozevrena a jejich základna je na vrchni desce zakladny robota  
+- Napětí na baterii 
+- správná pozice na startu 
+
+
+
+startuje z pravého predniho horního rohu
+tlačítko SW1 spouští přípravu
+tlačítko SW2 vybírá strany
+
+startovací lanko rozjíždí - SW3
+
+Poznamky: 
+Tlacitko ON zapina, tlacitko OFF vypina, STOP tlacitko vypina, neresetuje
+Protože SW3 je zkratovano startovacím lankem, tak nefunguje 
+STOP tlačítko asi chytaly ultrazvuky - musí se přemístit 
+
+Problémy s nahráváním 
+- není kontakt (zařízení připojené k systému nefunguje): vyhnout USB kabel na straně robota trochu od něj 
+
+Do příštího roku: 
+- vyřešit falešné signály ze senzoru 6 
+
